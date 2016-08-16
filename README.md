@@ -2,4 +2,4 @@
 test repository
 
 edited
-pull!
+pull! push!
